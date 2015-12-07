@@ -1,6 +1,6 @@
 class Bar
   def nice
-    'nice'
+    'nices'
   end
 
   def peace
